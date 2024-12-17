@@ -4,7 +4,7 @@ from Settings import Settings
 from Algorithms import Algorithms
 import random
 
-bot = telebot.TeleBot("7337994678:AAEOqV7DceI1Y6_WX1KJzi3Rf5ErvTMGCQU")
+bot = telebot.TeleBot("...")
 
 words = Settings.words
 words_ru = Settings.words_ru
